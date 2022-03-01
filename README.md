@@ -1,4 +1,4 @@
-# GetGPOProcessingTIme
+# GetGPOProcessingTime
 Gets the average, minimum and maximum Group Policy processing time on  computers in Microsoft Active Directory.
 
 	Gets the average, minimum and maximum Group Policy processing time on XenApp 6.5 servers.
